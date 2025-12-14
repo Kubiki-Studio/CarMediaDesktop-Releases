@@ -1,6 +1,6 @@
 # CarMedia Desktop — установщик приложений для Lixiang
 
-![bandicam 2025-12-09 01-13-06-657](https://github.com/user-attachments/assets/9e851844-7132-420e-bd06-599f7c699d32)
+<img width="1600" height="1200" alt="bandicam 2025-12-14 12-59-25-033" src="https://github.com/user-attachments/assets/9af855a9-f2cf-4411-b955-92de73e75f77" />
 
 **CarMediaDesktop** — установщик приложений для автомобилей Lixiang, предоставляющий доступ к расширенному функционалу и кастомизации вашего автомобиля.
 
